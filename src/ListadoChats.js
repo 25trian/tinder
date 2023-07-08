@@ -12,7 +12,7 @@ function ListadoChats() {
 
             <ChatPrevisualizacion 
                 nombre="Agus"
-                mensaje="eres tonto"
+                mensaje="eres inteligente"
                 timestamp="Hace 1h"
                 imgPerfil="https://img.freepik.com/foto-gratis/retrato-hermosa-modelo-sonriente-peinado-afro-rizos-vestido-ropa-hipster-verano-chica-despreocupada-sexy-posando-junto-pared-azul-mujer-divertida-positiva-moda_158538-15691.jpg?size=626&ext=jpg"
             />

@@ -34,7 +34,7 @@ function ChatIndividual() {
     
     return (
         <div className="chatIndividual">
-            <p className="chatIndividual__timestamp">CONSEGUISTE UN MATCH EL 19/1/21</p>
+            <p className="chatIndividual__timestamp">CONSEGUISTE UN MATCH EL 07/7/23</p>
             {mensajes.map(mensaje => (
 
                 mensaje.nombre ? (
